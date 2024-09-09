@@ -6,3 +6,4 @@ this is my first repository!
 
 R.jirawat
 W.boonarj
+Guyji
